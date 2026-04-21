@@ -20,7 +20,7 @@ Regras:
 - Escreva de forma acolhedora e fácil de entender
 - Retorne apenas JSON válido
 - Se algum campo não estiver claro, preencha com "Não identificado no texto"
-- Retorne SOMENTE JSON válido. Não use markdown, não use ```json.
+- Retorne SOMENTE JSON válido. Não use markdown e não envolva a resposta em blocos de código.
 
 Formato:
 {
