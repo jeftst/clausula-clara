@@ -39,7 +39,7 @@ function normalizeResult(data: Partial<AnalysisResult>): AnalysisResult {
 
 async function analyzeWithGemini(prompt: string): Promise<AnalysisResult> {
   const apiKey = process.env.GEMINI_API_KEY;
-  const model = process.env.GEMINI_MODEL || "gemini-1.5-flash";
+  const model = process.env.GEMINI_MODEL || "gemini-1.5-flash-latest";
 
   if (!apiKey) {
     throw new Error("GEMINI_API_KEY não configurada.");
