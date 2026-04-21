@@ -57,7 +57,7 @@ async function callGroq(prompt: string): Promise<AnalysisResult> {
         Authorization: `Bearer ${process.env.GROQ_API_KEY}`,
       },
       body: JSON.stringify({
-        model: process.env.GROQ_MODEL || "llama3-8b-8192",
+        model: process.env.GROQ_MODEL || "llama-3.1-8b-instant",
         messages: [
           {
             role: "user",
