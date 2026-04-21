@@ -7,6 +7,8 @@ export const runtime = "nodejs";
 
 export async function POST(req: Request) {
   try {
+    console.log("Iniciando análise...");
+
     const formData = await req.formData();
     const textInput = formData.get("text");
     const file = formData.get("file");
@@ -32,6 +34,8 @@ export async function POST(req: Request) {
     validateText(contractText);
 
     const result = await analyzeContractWithAI(contractText);
+
+    console.log("Análise concluída");
 
     return NextResponse.json(result, { status: 200 });
   } catch (error) {
