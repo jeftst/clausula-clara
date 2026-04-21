@@ -1,0 +1,25 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+CONTRATANTE: João da Silva
+CONTRATADA: Empresa Exemplo Ltda.
+
+1. OBJETO
+A CONTRATADA prestará serviços de consultoria digital ao CONTRATANTE.
+
+2. PRAZO
+O presente contrato terá vigência de 12 (doze) meses, iniciando em 01/05/2026, com renovação automática por iguais períodos, salvo manifestação contrária com antecedência mínima de 30 dias.
+
+3. VALOR
+O CONTRATANTE pagará o valor mensal de R$ 199,90, com vencimento todo dia 10.
+
+4. REAJUSTE
+Os valores poderão ser reajustados anualmente pelo índice IPCA.
+
+5. CANCELAMENTO
+Em caso de cancelamento antes do término da vigência, o CONTRATANTE pagará multa correspondente a 20% do saldo restante do contrato.
+
+6. RESPONSABILIDADE
+A CONTRATADA não será responsável por quaisquer danos indiretos, lucros cessantes ou perdas relacionadas ao uso dos serviços.
+
+7. FORO
+Fica eleito o foro da comarca da sede da CONTRATADA para solução de eventuais conflitos.
